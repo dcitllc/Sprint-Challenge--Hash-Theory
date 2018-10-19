@@ -39,6 +39,9 @@ both `antelope` and `antelopes`.)
 
   812-2-10
 
+#Answer
+\d{1,4}-\d{1,2}-\d{1,2}
+
 ## State Machines
 
 > A useful tool for drawing state machines is [Evan's FSM
